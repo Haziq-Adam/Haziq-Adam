@@ -8,7 +8,7 @@ Apart from coding, I also do video editing.
 
 I'm working on my web development skills and looking for an internship.
 
-
+## Tools I use
 
 - **Coding:** HTML, CSS, PHP, Java
 - **Database:** MySQL, phpMyAdmin
