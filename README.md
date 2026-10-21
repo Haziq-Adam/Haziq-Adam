@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Haziq
 
-<!--
-**Haziq-Adam/Haziq-Adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Information Technology at Kolej Vokasional Kangar. Most of my coding experience comes from college projects, where I've used HTML, CSS, PHP and MySQL to build web-based systems.
 
-Here are some ideas to get you started:
+Apart from coding, I also do video editing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing now
+
+I'm working on my web development skills and looking for an internship.
+
+## Tools I use
+
+- **Coding:** HTML, CSS, PHP, Java
+- **Database:** MySQL, phpMyAdmin
+- **Others:** VS Code, XAMPP, Bootstrap
+
+## Contact
+
+You can find my work here on GitHub.
